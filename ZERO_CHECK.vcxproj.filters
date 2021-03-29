@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Logan\Desktop\darknet-master\CMakeFiles\b66e08d6d3593bffa6f6ccb4c354ff71\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{D41B7EA4-685E-35E9-B30A-E93724D7241D}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
